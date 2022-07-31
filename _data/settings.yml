@@ -1,11 +1,11 @@
 basic_settings:
-  site_title: Simples
+  site_title: YuruMina
   site_tagline: A super simple blogging theme for Jekyll.
   favicon_image: /images/favicon.png
 
 header_settings:
   avatar_image: /images/avatar.jpg
-  logo_image: 
+  logo_image:
   logo_width: 200
 
 menu_settings:

@@ -71,9 +71,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
-  title_font: '"Nunito", sans-serif'
-  body_font: '"Nunito", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Sacramento&family=Zen+Kurenaido&display=swap" rel="stylesheet"> '
+  title_font: '"Zen Kurenaido", sans-serif;'
+  body_font: '"Zen Kurenaido", sans-serif;'
   regular_weight: 400
   bold_weight: 600
   site_title:

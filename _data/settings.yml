@@ -1,6 +1,6 @@
 basic_settings:
   site_title: YuruMina
-  site_tagline: A super simple blogging theme for Jekyll.
+  site_tagline: あおの日常を描いたゆるゆるの場所
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,14 +10,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Blog'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'About'
+    - title: 'About Me'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Q&A'
+      url: 'https://peing.net/ja/minaaa0105'
+    - title: 'Wish List'
+      url: 'https://www.amazon.co.jp/hz/wishlist/ls/2VZL2EYUV0ZNT'
+    - title: 'Twitter'
+      url: 'https://twitter.com/minaaa0105'
 
 grid_settings:
   grid_spacing: 10

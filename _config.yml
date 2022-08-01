@@ -1,7 +1,7 @@
 site: YuruMina
 
-url: https://yutarochan.github.io/yurumina/
-baseurl: https://yutarochan.github.io/yurumina/
+url:
+baseurl:
 
 collections:
   pages:

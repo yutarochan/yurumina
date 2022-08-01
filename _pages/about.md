@@ -5,7 +5,7 @@ subtitle: あおの日常を描いたゆるゆるの場所
 featured_image: /images/social.jpg
 ---
 
-![](/images/about/profile.jpg)
+![](yurumina/images/about/profile.jpg)
 
 初めまして。Minaです😊
 

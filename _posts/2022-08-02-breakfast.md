@@ -5,7 +5,7 @@ featured_image: '/images/post/2022-08-01-breakfast.jpg'
 excerpt: 本日、早起きのあおです！
 ---
 
-![](/images/post/2022-08-01-breakfast.jpg)
+![](https://yutarochan.github.io/yurumina/images/post/2022-08-01-breakfast.jpg)
 
 こんにちは皆さん。
 
@@ -15,7 +15,7 @@ excerpt: 本日、早起きのあおです！
 
 本日のモーニングではないですが先日行った旅行先でのモーニングの写真を載せておきます！！😊
 
-![](/images/post/2022-08-01-coffee.jpg)
+![](https://yutarochan.github.io/yurumina/images/post/2022-08-01-coffee.jpg)
 
 ここのウインナーコーヒーはホイップがモリモリでとっても美味しいので大好きです！！😍
 

@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: YuruMina - About Me
 description: あおの日常を描いたゆるゆるの場所
 subtitle: あおの日常を描いたゆるゆるの場所
 featured_image: images/social.jpg

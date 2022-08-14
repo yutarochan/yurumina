@@ -3,6 +3,7 @@ title: '祝🎉　初投稿！'
 date: 2022-08-02 00:00:00
 featured_image: '/images/post/2022-08-01-breakfast.jpg'
 excerpt: 本日、早起きのあおです！
+disqus_id: breakfast
 ---
 
 ![](https://yutarochan.github.io/yurumina/images/post/2022-08-01-breakfast.jpg)

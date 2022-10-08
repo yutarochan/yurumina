@@ -20,6 +20,8 @@ menu_settings:
       url: 'https://www.amazon.co.jp/hz/wishlist/ls/2VZL2EYUV0ZNT'
     - title: 'Twitter'
       url: 'https://twitter.com/ao04135406'
+    - title: 'Note'
+      url: 'https://note.com/yurumina'
 
 grid_settings:
   grid_spacing: 10

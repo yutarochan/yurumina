@@ -1,11 +1,11 @@
 ---
 title: 早起きさん！！
 date: 2022-11-04 00:00:00
-featured_image: '/images/post/2022-11-04-.jpg'
+featured_image: '/images/post/2022-11-4-sky.jpg'
 excerpt: お天気よかった😭
 ---
 
-![](https://yutarochan.github.io/yurumina/images/post/2022-11-04-sky.jpg)
+![](https://yutarochan.github.io/yurumina/images/post/2022-11-4-sky.jpg)
 
 皆さんこんにちは🌞
 

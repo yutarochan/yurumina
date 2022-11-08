@@ -1,11 +1,11 @@
 ---
 title: 眠り姫😂
 date: 2022-11-08 00:00:00
-featured_image: '/images/post/2022-11-08-nemurihime.jpg'
+featured_image: '/images/post/2022-11-08-melanie.jpg'
 excerpt: のように・・・
 ---
 
-![](https://yutarochan.github.io/yurumina/images/post/2022-11-08-nemurihime.jpg)
+![](https://yutarochan.github.io/yurumina/images/post/2022-11-08-melanie.jpg)
 
 皆さんこんにちは🌞
 

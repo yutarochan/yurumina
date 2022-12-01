@@ -1,11 +1,11 @@
 ---
 title: まさかの誤算
 date: 2022-12-01 00:00:00
-featured_image: '/images/post/2022-12-01-contacts.jpg'
+featured_image: '/images/post/2022-12-01-contactlens.jpg'
 excerpt: でも色々捗った日
 ---
 
-![](https://yutarochan.github.io/yurumina/images/post/2022-12-01-contacts.jpg)
+![](https://yutarochan.github.io/yurumina/images/post/2022-12-01-contactlens.jpg)
 
 みなさんこんばんは🌙
 

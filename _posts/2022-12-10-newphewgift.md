@@ -1,11 +1,11 @@
 ---
 title: ついにこの日が✨
 date: 2022-12-10 00:00:00
-featured_image: '/images/post/2022-12-10-newphewgift.jpg'
+featured_image: '/images/post/2022-12-10-nephewgift.jpg'
 excerpt: 旅立ちの時です！！👜
 ---
 
-![](https://yutarochan.github.io/yurumina/images/post/2022-12-10-newphewgift.jpg)
+![](https://yutarochan.github.io/yurumina/images/post/2022-12-10-nephewgift.jpg)
 
 皆さんこんにちは😊
 

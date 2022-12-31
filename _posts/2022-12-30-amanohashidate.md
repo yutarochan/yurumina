@@ -1,7 +1,7 @@
 ---
 title: 股のぞき台に立てました！！！
 date: 2022-12-30 00:00:00
-featured_image: '/images/post/2022-12-27-miffyarashi.jpg'
+featured_image: '/images/post/2022-12-30-amano_1.jpg'
 excerpt: 天野橋立行ってきました💗
 ---
 

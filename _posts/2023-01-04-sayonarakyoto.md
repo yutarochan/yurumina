@@ -1,7 +1,7 @@
 ---
 title: さよなら京都🥲
 date: 2023-01-04 00:00:00
-featured_image: '/images/post/2023-01-04-mochi_1.jpg'
+featured_image: '/images/post/2023-01-04-matchacrepe_1.jpg'
 excerpt: ただいま地元
 ---
 
